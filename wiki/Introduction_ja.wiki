@@ -1,5 +1,16 @@
 [Introduction English Page]
 
+*このプロジェクトは移転しました。*
+
+プログラムファイルとバグ報告は以下で管理します。
+
+https://sourceforge.net/projects/msofficesvn/
+
+ソースコードは以下で管理します。
+
+https://github.com/kokiya/msofficesvn/
+
+
 =マイクロソフト オフィス文書のバージョン管理支援ソフト=
 
 ==概要==
