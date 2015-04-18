@@ -1,12 +1,13 @@
 *This project has moved.*
 
-Program files and Issues are managed under sourceforge. 
+Program files can be downloaded from sourceforge.
 
 https://sourceforge.net/projects/msofficesvn/
 
-Source files are managed under github.
+Source files and Issues are managed under github.
 
-https://github.com/kokiya/msofficesvn/
+https://github.com/kokiya/msofficesvn/ 
+
 
 =Microsoft Office (Excel, Word, PowerPoint) add-ins that assist document version control=
 
