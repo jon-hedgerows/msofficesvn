@@ -2,11 +2,11 @@
 
 *このプロジェクトは移転しました。*
 
-プログラムファイルとバグ報告は以下で管理します。
+プログラムファイルは以下からダウンロードできます。
 
 https://sourceforge.net/projects/msofficesvn/
 
-ソースコードは以下で管理します。
+ソースコードとバグ報告は以下で管理します。
 
 https://github.com/kokiya/msofficesvn/
 
